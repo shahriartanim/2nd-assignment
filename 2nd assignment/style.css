@@ -1,0 +1,20 @@
+p {
+    color: black; text-align: center; font-size: 20px;
+}
+
+#secondptag{
+    color: greenyellow; font-size: xx-large;
+}
+
+body {
+    align-items: center;
+    background: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-electronic-technology-website-texture-background-banner-image_156039.jpg);
+}
+     
+
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
